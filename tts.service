@@ -1,0 +1,14 @@
+[Unit]
+Description=TTS Telegram bot
+After=multi-user.target network-online.target
+
+[Service]
+Type=simple
+User=tts
+Group=tts
+WorkingDirectory=/home/tts
+ExecStart=/home/tts/bin/python /home/tts/tts.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
