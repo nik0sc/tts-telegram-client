@@ -1,3 +1,9 @@
+TTS no longer exists, and I trust that we are entering a kinder, brighter, post-corona world.
+So this bot basically does nothing. But I'm keeping the source code up as a testament to a 
+uni student's ingenuity and reckless disregard for the Computer Misuse Act and Infectious Diseases Act.
+
+Check back for the great monkeypox pandemic of 2023.
+
 # SUTD Temperature Tracking System Telegram client
 
 This is an unofficial Telegram client for the declaration system at [tts.sutd.edu.sg](tts.sutd.edu.sg).
